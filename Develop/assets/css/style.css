@@ -59,6 +59,8 @@ p {
 }
 
 /* Moved up above all ".benefits" to match HTML order*/
+
+/* changed all sub-classes in main to "main"*/
 .main {
     margin-bottom: 20px;
     padding: 50px;
