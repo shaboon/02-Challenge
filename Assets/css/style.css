@@ -55,7 +55,7 @@ a {
     background-size: cover;
     background-position: center;
 }
-
+/* Content class CSS moved up to match HTML order */
 .content {
     width: 75%;
     display: inline-block;
