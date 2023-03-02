@@ -31,13 +31,13 @@ Matthew Lombard\
 Jameson Suttles\
 Christian Martinez\
 Sarah Miller\
-Tyrrance Miller\
+Tyrrance Miller
 
 
 Code Reviewed With:
 
 Joanna Haboon\
-Austin Meadows\
+Austin Meadows
 
 ## License
 
