@@ -8,6 +8,9 @@ Horiseon provides many services regarding Search Engine Optimization. Within thi
 
 N/A - Access this application through a browser via the link.
 
+Page Link:
+https://shaboon.github.io/T03022023-Bluefrog-SH/
+
 ## Usage
 
 Access the website via GitPages and read about the 
@@ -26,6 +29,7 @@ Christopher Snyder
 Matthew Lombard
 Jameson Suttles
 Christian Martinez
+Sarah Miller
 
 Code Reviewed With:
 
