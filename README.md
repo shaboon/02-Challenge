@@ -26,19 +26,19 @@ UNCC-VIRT-FSF-FT-02-2023-U-LOLC-M-F
 
 Peers Collaborated With:
 
-Christopher Snyder
-Matthew Lombard
-Jameson Suttles
-Christian Martinez
-Sarah Miller
-Tyrrance Miller
-
+Christopher Snyder\
+Matthew Lombard\
+Jameson Suttles\
+Christian Martinez\
+Sarah Miller\
+Tyrrance Miller\
+\
 
 Code Reviewed With:
 
-Joanna Haboon
-Austin Meadows
-
+Joanna Haboon\
+Austin Meadows\
+\
 ## License
 
 Default rights reserved under no specific license.
