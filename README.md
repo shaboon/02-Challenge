@@ -13,15 +13,16 @@ https://shaboon.github.io/T03022023-Bluefrog-SH/
 
 ## Usage
 
-Access the website via GitPages and read about the 
+Access the website via GitPages and read about the benefits of search engine optimization.
 
-![alt text](Assets/images/screenshot.png)
+![alt text](assets/images/screenshot.png)
 
 ## Credits
 
 Code Provided By:
 
 UNCC-VIRT-FSF-FT-02-2023-U-LOLC-M-F
+
 
 Peers Collaborated With:
 
@@ -30,6 +31,7 @@ Matthew Lombard
 Jameson Suttles
 Christian Martinez
 Sarah Miller
+
 
 Code Reviewed With:
 
