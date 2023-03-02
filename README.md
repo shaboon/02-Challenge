@@ -15,7 +15,7 @@ https://shaboon.github.io/T03022023-Bluefrog-SH/
 
 Access the website via GitPages and read about the 
 
-![alt text](assets/images/screenshot.png)
+![alt text](Assets/images/screenshot.png)
 
 ## Credits
 
