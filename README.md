@@ -32,13 +32,13 @@ Jameson Suttles\
 Christian Martinez\
 Sarah Miller\
 Tyrrance Miller\
-\
+
 
 Code Reviewed With:
 
 Joanna Haboon\
 Austin Meadows\
-\
+
 ## License
 
 Default rights reserved under no specific license.
