@@ -21,7 +21,7 @@ header h1 {
     font-size: 48px;
 }
 
-header h1 .seo {
+.seo {
     color: #d9dcd6;
 }
 
@@ -34,7 +34,7 @@ header nav {
 }
 
 /* Combined header nav ul with header nav ul li*/
-header nav ul li {
+header nav li {
     list-style-type: none;
     display: inline-block;
     margin-left: 25px;
@@ -61,7 +61,7 @@ p {
 /* Moved up above all ".benefits" to match HTML order*/
 
 /* changed all sub-classes in main to "main"*/
-.main {
+.child {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
