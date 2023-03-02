@@ -38,15 +38,13 @@ header nav li {
     list-style-type: none;
     display: inline-block;
     margin-left: 25px;
+    color: #ffffff;
+    text-decoration: none;
 }
 
 a {
     color: #ffffff;
     text-decoration: none;
-}
-
-p {
-    font-size: 16px;
 }
 
 .hero {
@@ -58,24 +56,12 @@ p {
     background-position: center;
 }
 
-/* Moved up above all ".benefits" to match HTML order*/
-
-/* changed all sub-classes in main to "main"*/
-.child {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+    font-size: 16px;
 }
-
 
 .content img {
     max-height: 200px;
@@ -86,6 +72,18 @@ p {
     font-size: 36px;
 }
 
+/* Removed p CSS and combined into .content */
+
+/* Moved up above all ".benefits" to match HTML order*/
+/* changed all sub-classes in main to "child"*/
+.child {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
 
 .float-left {
     float: left;
@@ -129,16 +127,14 @@ p {
     margin-bottom: 30px;
 }
 
+/*Changed .footer to footer*/
 footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-   /* Added display: none;*/
-    display: none;
 }
 
-/*Changed .footer to footer*/
 footer h2 {
     font-size: 20px;
 }
